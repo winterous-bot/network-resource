@@ -1,1 +1,18 @@
-{"name":"我的关系资源","short_name":"关系资源","description":"三层人物关系树，快速寻找教育、医疗、政法资源","start_url":"./","scope":"./","display":"standalone","background_color":"#f5f7fb","theme_color":"#f5f7fb","icons":[{"src":"icon.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}]}
+{
+  "name": "我的关系资源 V1.5",
+  "short_name": "关系资源",
+  "description": "三层人物关系树，快速寻找教育、医疗、政法、金融资源",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f7fb",
+  "theme_color": "#f5f7fb",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
